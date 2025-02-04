@@ -104,7 +104,7 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/886cfde4-711a-4c40-a523-34e48a2c2eb1)
 
 ## การประยุกต์ใช้งานจริง
 
@@ -138,6 +138,9 @@ er.add_patient(Patient("คนไข้ C", 2))  # กระดูกหัก
 ```
 
 [Capture รูปผลการทดลองส่งตรงนี้]
+
+![Uploading image.png…]()
+
 
 ### 2. ระบบแนะนำสินค้าขายดี (Top K Items)
 ```python
