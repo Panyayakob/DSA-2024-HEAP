@@ -82,7 +82,7 @@ def _sift_down(self, i):
 code python
 ```
 [Capture รูปส่งตรงนี้]
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d840d52c-c4e4-46ab-9ff9-e36b336393f6)
 
 
 ### แบบฝึกหัดที่ 2: การลบค่า
@@ -93,6 +93,9 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
+![image](https://github.com/user-attachments/assets/6371a798-ce63-4cdb-8f53-682690880bbb)
+
+
 ### แบบฝึกหัดที่ 3: การเขียนโปรแกรม
 จงเขียนฟังก์ชัน `is_max_heap(arr)` ที่รับ array เข้ามาและตรวจสอบว่าป็น Max Heap หรือไม่ 
 
@@ -101,6 +104,7 @@ code python
 ```
 [Capture รูปส่งตรงนี้]
 
+![Uploading image.png…]()
 
 ## การประยุกต์ใช้งานจริง
 
