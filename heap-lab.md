@@ -139,7 +139,7 @@ er.add_patient(Patient("คนไข้ C", 2))  # กระดูกหัก
 
 [Capture รูปผลการทดลองส่งตรงนี้]
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/579958bb-b051-4059-9ac4-16d253cb97b8)
 
 
 ### 2. ระบบแนะนำสินค้าขายดี (Top K Items)
@@ -167,6 +167,9 @@ ranking.update_sales("สินค้า C", 80)
 ranking.update_sales("สินค้า D", 200)
 ```
 [Capture รูปผลการทดลองส่งตรงนี้]
+
+![Uploading image.png…]()
+
 
 ### 3. ตัวอย่างระบบคิวธนาคาร แบบมีระดับความสำคัญ โดยใช้ heapq
 ```python 
